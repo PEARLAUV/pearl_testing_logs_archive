@@ -1,0 +1,31 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_PEARL_SIMPLE_7_4_2021_____14_12_36/LOG_PEARL_SIMPLE_7_4_2021_____14_12_36.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART               1617819155.74
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.9598951  MOOS_DEBUG           pPearlPID            ** NEW CONTROLLER GAINS ARE ** 
+0.959913   MOOS_DEBUG           pPearlPID            YAW_PID_KP             = 0.800 
+0.959923   MOOS_DEBUG           pPearlPID            YAW_PID_KD             = 4.000 
+0.9599299  MOOS_DEBUG           pPearlPID            YAW_PID_KI             = 0.040 
+0.9599361  MOOS_DEBUG           pPearlPID            YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.959945   MOOS_DEBUG           pPearlPID            MAXRUDDER              = 100.000 
+0.961251   MOOS_DEBUG           pPearlPID            SPEED_PID_KP           = 1.000 
+0.961262   MOOS_DEBUG           pPearlPID            SPEED_PID_KD           = 0.000 
+0.9612679  MOOS_DEBUG           pPearlPID            SPEED_PID_KI           = 0.000 
+0.9612751  MOOS_DEBUG           pPearlPID            SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.961283   MOOS_DEBUG           pPearlPID            MAXTHRUST              = 100.000 
+0.9618051  MOOS_DEBUG           pPearlPID            Paused Due To Tardy HELM Input: THRUST=0 
+1.863564   MOOS_DEBUG           pPearlPID            pPearlPID Control Is On 
+1.863564   MOOS_DEBUG           pPearlPID            pPearlPID Control Is On 
+1.963866   MOOS_DEBUG           pPearlPID            pPearlPID Control Is Off 
+2.133749   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+2.133749   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+2.133749   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+37.75112   MOOS_DEBUG           pPearlPID            pPearlPID Control Is Off 
+38.43729   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: NothingToDo 
+38.45288   MOOS_DEBUG           pPearlPID            pPearlPID Control Is On 
+38.68689   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: NothingToDo 
+38.68689   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: NothingToDo 
+40.76092   MOOS_DEBUG           pPearlPID            Paused Due To Tardy HELM Input: THRUST=0 
+42.94816   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+42.94816   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
